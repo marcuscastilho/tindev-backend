@@ -7,7 +7,7 @@ const server = express();
 
 
 mongoose.connect(
-    process.env.MONGO_URL, {
+    process.env.MONGO, {
     useNewUrlParser: true
 });
 server.use(cors());
