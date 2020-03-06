@@ -1,4 +1,4 @@
-# tindev-frontend
+# tindev-backend
  Rocketseat omnistack week project
 
 ### View Project with Netlifly - frontend
