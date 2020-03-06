@@ -5,6 +5,6 @@
 
 https://admiring-aryabhata-d22cdc.netlify.com
 
-### API Project with Heroku - backend
+### API Project in the Heroku - backend
 
 https://tindev-backend-js.herokuapp.com
